@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1572434221 source:e:\proiect poo bun\proiect poo\headerbazadedate.cpp
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	"headerbazadedate.h"
+	"headerpersoana.h"
+	<iostream>
+
+1572434221 e:\proiect poo bun\proiect poo\headerbazadedate.h
+	<string>
+	<vector>
+	<bits/stdc++.h>
+	"headerpersoana.h"
+	"headerbazadedate.h"
+
+1572434221 e:\proiect poo bun\proiect poo\headerpersoana.h
+	<vector>
+	<string>
+	"headerbazadedate.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1572434221 source:e:\proiect poo bun\proiect poo\headerpersoana.cpp
+	<vector>
+	<string>
+	<iostream>
+	"headerbazadedate.h"
+	<bits/stdc++.h>
+	"headerpersoana.h"
+
+1572434221 source:e:\proiect poo bun\proiect poo\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"headerpersoana.h"
+	"headerbazadedate.h"
+
